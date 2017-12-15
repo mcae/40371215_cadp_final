@@ -20,14 +20,28 @@
 </v>
 <v t="leo.20171122224218.1"><vh>目錄規劃</vh></v>
 <v t="leo.20171215141553.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20171215145628.1"><vh>@path elec_design</vh></v>
-<v t="leo.20171215145659.1"><vh>@path eric6_project</vh></v>
+<v t="leo.20171215145628.1"><vh>@path elec_design</vh>
+<v t="leo.20171215160438.1"><vh>@edit readme.md</vh></v>
+</v>
+<v t="leo.20171215145659.1"><vh>@path eric6_project</vh>
+<v t="leo.20171215160517.1"><vh>@path calculator</vh>
+<v t="leo.20171215160935.1"><vh>@path eric6project</vh></v>
+<v t="leo.20171215160956.1"><vh>@path ui</vh></v>
+<v t="leo.20171215160810.1"><vh>@edit readme.md</vh></v>
+</v>
+<v t="leo.20171215160520.1" a="E"><vh>@path marble_monitor</vh>
+<v t="leo.20171215160817.1"><vh>@edit readme.md</vh></v>
+</v>
+</v>
 <v t="leo.20171215145731.1"><vh>@path mech_design</vh>
+<v t="leo.20171215160137.1"><vh>@path v-rep_models</vh>
+<v t="leo.20171215160119.1"><vh>@edit readme.md</vh></v>
+</v>
 <v t="leo.20171215145845.1"><vh>@path cad_designs</vh>
 <v t="leo.20171215150015.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171208160708.1" a="E"><vh>@path report</vh>
+<v t="leo.20171208160708.1"><vh>@path report</vh>
 <v t="leo.20171208160850.1"><vh>@path latex</vh>
 <v t="leo.20171215141259.1"><vh>@edit readme.md</vh></v>
 </v>
@@ -139,5 +153,10 @@ eric6_project 存放計算機專案程式
 <t tx="leo.20171215145659.1"></t>
 <t tx="leo.20171215145731.1"></t>
 <t tx="leo.20171215145845.1"></t>
+<t tx="leo.20171215160137.1"></t>
+<t tx="leo.20171215160517.1"></t>
+<t tx="leo.20171215160520.1"></t>
+<t tx="leo.20171215160935.1"></t>
+<t tx="leo.20171215160956.1"></t>
 </tnodes>
 </leo_file>
