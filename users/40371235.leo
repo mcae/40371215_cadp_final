@@ -29,20 +29,19 @@
 <v t="leo.20171215160956.1"><vh>@path ui</vh></v>
 <v t="leo.20171215160810.1"><vh>@edit readme.md</vh></v>
 </v>
-<v t="leo.20171215160520.1"><vh>@path marble_monitor</vh>
+<v t="leo.20171215160520.1" a="E"><vh>@path marble_monitor</vh>
 <v t="leo.20171215160817.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171215145731.1" a="E"><vh>@path mech_design</vh>
+<v t="leo.20171215145731.1"><vh>@path mech_design</vh>
 <v t="leo.20171215160137.1"><vh>@path v-rep_models</vh>
 <v t="leo.20171215160119.1"><vh>@edit readme.md</vh></v>
 </v>
-<v t="leo.20171215145845.1" a="E"><vh>@path cad_designs</vh>
-<v t="leo.20180101210539.1"><vh>@path stl</vh></v>
+<v t="leo.20171215145845.1"><vh>@path cad_designs</vh>
 <v t="leo.20171215150015.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171208160708.1" a="E"><vh>@path report</vh>
+<v t="leo.20171208160708.1"><vh>@path report</vh>
 <v t="leo.20171208160850.1"><vh>@path latex</vh>
 <v t="leo.20171215141259.1"><vh>@edit readme.md</vh></v>
 </v>
@@ -149,13 +148,7 @@ eric6_project 存放計算機專案程式
 <t tx="leo.20171208160708.1"></t>
 <t tx="leo.20171208160850.1"></t>
 <t tx="leo.20171215141553.1"></t>
-<t tx="leo.20171215144439.1">摘要
-設計是一種明確與具體的表達，已經不再只是利用MCAD (Mechanical Computer Aided Design) 套件畫畫圖而已，而是仔細思考、多方考量後所完成的表達，表達具有六種形式，包括口語、文字、2D、3D、數學與實體表達，設計的結果可以讓執行者有所依循，根據指示執行後，可得預期之結果。因此，本研究利用學期過程中所學的課程完成機電資循環運動與設計。
-
-
-內文
-   本研究先計算各零件運動的範圍再利用solidworks畫出機構後進行組立與初步的鋼球運動系統模擬接著在設法將各機構元件轉入V-rep進行運動模擬，以確保各零件在運動過程不會產生撞擊干涉。
-</t>
+<t tx="leo.20171215144439.1"></t>
 <t tx="leo.20171215145628.1"></t>
 <t tx="leo.20171215145659.1"></t>
 <t tx="leo.20171215145731.1"></t>
@@ -165,6 +158,5 @@ eric6_project 存放計算機專案程式
 <t tx="leo.20171215160520.1"></t>
 <t tx="leo.20171215160935.1"></t>
 <t tx="leo.20171215160956.1"></t>
-<t tx="leo.20180101210539.1"></t>
 </tnodes>
 </leo_file>
